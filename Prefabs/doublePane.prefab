@@ -1,0 +1,87 @@
+<root>
+  <info createdby="vForge version 2013.2.0.1" />
+  <header version="0" name="" description="" category="" convertible="True" autosavebinary="False" relativefilenames="False" />
+  <thumbnail type="jpg" size="5442">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</thumbnail>
+  <shape class="StaticMeshShape">
+    <property name="ScaleX" value="1" />
+    <property name="ScaleY" value="1" />
+    <property name="ScaleZ" value="1" />
+    <property name="UniformScaling" value="1" />
+    <property name="NavMeshUsage" value="IncludeInNavMesh" />
+    <property name="MeshFileName" value="Meshes/modular_wall01.vmesh" />
+    <property name="CustomMaterialSet" value="&lt;None&gt;" />
+    <property name="LODUsage" value="FarClipOnly" />
+    <property name="LODDefinitionFile" value="" />
+    <property name="FarClipDistance" value="0" />
+    <property name="VisibleBitmask" value="4294967295" />
+    <property name="LightInfluenceBitmask" value="65535" />
+    <property name="CastStaticShadows" value="True" />
+    <property name="CastDynamicShadows" value="False" />
+    <property name="ShowLightgridWidget" value="False" />
+    <property name="SampleOfsX" value="0" />
+    <property name="SampleOfsY" value="0" />
+    <property name="SampleOfsZ" value="0" />
+    <property name="LightmapSizeMultiplier" value="1" />
+    <property name="CustomLightmap" value="" />
+    <property name="CollisionBitmask" value="65535" />
+    <property name="CollisionBehavior" value="FromFile" />
+    <property name="CollisionLayerID" value="2" />
+    <property name="SubSystemID" value="0" />
+    <property name="SubSystemDontCollideWith" value="0" />
+    <property name="SystemGroup" value="0" />
+    <property name="WeldingType" value="None" />
+    <property name="PreviewVisibility" value="False" />
+    <property name="ObjectKey" value="" />
+    <property name="Visible" value="True" />
+    <property name="Position" value="125,0,0" />
+    <property name="Orientation" value="180,0,0" />
+    <property name="Scaling" value="1,1,1" />
+    <property name="TextLabel" value="" />
+    <property name="ShapeName" value="modular_wall01.vmesh0" />
+    <property name="UserDataString" value="" />
+    <property name="ExportShape" value="True" />
+    <property name="UniqueID" value="16127477955961029013" />
+    <linktarget class="LinkTargetVisiblity" name="visibility determined by" ID="VisibilityTarget_1" />
+  </shape>
+  <shape class="StaticMeshShape">
+    <property name="ScaleX" value="1" />
+    <property name="ScaleY" value="1" />
+    <property name="ScaleZ" value="1" />
+    <property name="UniformScaling" value="1" />
+    <property name="NavMeshUsage" value="IncludeInNavMesh" />
+    <property name="MeshFileName" value="Meshes/modular_wall01.vmesh" />
+    <property name="CustomMaterialSet" value="&lt;None&gt;" />
+    <property name="LODUsage" value="FarClipOnly" />
+    <property name="LODDefinitionFile" value="" />
+    <property name="FarClipDistance" value="0" />
+    <property name="VisibleBitmask" value="4294967295" />
+    <property name="LightInfluenceBitmask" value="65535" />
+    <property name="CastStaticShadows" value="True" />
+    <property name="CastDynamicShadows" value="False" />
+    <property name="ShowLightgridWidget" value="False" />
+    <property name="SampleOfsX" value="0" />
+    <property name="SampleOfsY" value="0" />
+    <property name="SampleOfsZ" value="0" />
+    <property name="LightmapSizeMultiplier" value="1" />
+    <property name="CustomLightmap" value="" />
+    <property name="CollisionBitmask" value="65535" />
+    <property name="CollisionBehavior" value="FromFile" />
+    <property name="CollisionLayerID" value="2" />
+    <property name="SubSystemID" value="0" />
+    <property name="SubSystemDontCollideWith" value="0" />
+    <property name="SystemGroup" value="0" />
+    <property name="WeldingType" value="None" />
+    <property name="PreviewVisibility" value="False" />
+    <property name="ObjectKey" value="" />
+    <property name="Visible" value="True" />
+    <property name="Position" value="-125,0,0" />
+    <property name="Orientation" value="0,0,0" />
+    <property name="Scaling" value="1,1,1" />
+    <property name="TextLabel" value="" />
+    <property name="ShapeName" value="modular_wall01.vmesh" />
+    <property name="UserDataString" value="" />
+    <property name="ExportShape" value="True" />
+    <property name="UniqueID" value="16127477955961029011" />
+    <linktarget class="LinkTargetVisiblity" name="visibility determined by" ID="VisibilityTarget_1" />
+  </shape>
+</root>

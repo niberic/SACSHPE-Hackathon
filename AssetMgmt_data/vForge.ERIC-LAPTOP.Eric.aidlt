@@ -1,0 +1,35 @@
+meshes/modular_floor01.vcolmesh	meshes/modular_floor01.vcolmesh	
+meshes/modular_floor01.vmesh	meshes/modular_floor01.vmesh	LODSwitchDistances=
+meshes/modular_wall01.vcolmesh	meshes/modular_wall01.vcolmesh	
+meshes/modular_wall01.vmesh	meshes/modular_wall01.vmesh	LODSwitchDistances=
+meshes/multiuvstest.vmesh	meshes/multiuvstest.vmesh	LODSwitchDistances=
+meshes/rubblepile01.vcolmesh	meshes/rubblepile01.vcolmesh	
+meshes/rubblepile01.vmesh	meshes/rubblepile01.vmesh	LODSwitchDistances=
+models/animation_1/animation_1_barbarian.model	models/animation_1/animation_1_barbarian.model	LODSwitchDistances=
+models/barbarian.anim	models/barbarian.anim	
+models/barbarian.model	models/barbarian.model	LODSwitchDistances=
+models/templevase.anim	models/templevase.anim	
+models/templevase.model	models/templevase.model	LODSwitchDistances=
+models/textures/barbarian_low_belt_d.tga	models/textures/barbarian_low_belt_d.tga	sRGB=false
+models/textures/barbarian_low_body_d.tga	models/textures/barbarian_low_body_d.tga	sRGB=false
+prefabs/doublepane.prefab	prefabs/doublepane.prefab	
+prefabs/floor.prefab	prefabs/floor.prefab	
+source/collision/temple_prop_rubble_02_d.tga	source/collision/temple_prop_rubble_02_d.tga	sRGB=false
+source/collision/temple_prop_rubbleplanks_01_d.tga	source/collision/temple_prop_rubbleplanks_01_d.tga	sRGB=false
+source/collision/temple_vase_01_d.tga	source/collision/temple_vase_01_d.tga	sRGB=false
+source/exportcharacter/barbarian_belt_low_d.tga	source/exportcharacter/barbarian_belt_low_d.tga	sRGB=false
+source/exportcharacter/barbarian_belt_n.tga	source/exportcharacter/barbarian_belt_n.tga	sRGB=false
+source/exportcharacter/barbarian_body_low_d.tga	source/exportcharacter/barbarian_body_low_d.tga	sRGB=false
+source/exportcharacter/barbarian_body_n.tga	source/exportcharacter/barbarian_body_n.tga	sRGB=false
+source/exportstatic/floor01_diff.tga	source/exportstatic/floor01_diff.tga	sRGB=false
+source/exportstatic/wall01_diff.tga	source/exportstatic/wall01_diff.tga	sRGB=false
+textures/barbarian_belt_low_d.tga	textures/barbarian_belt_low_d.tga	sRGB=false
+textures/barbarian_belt_n.tga	textures/barbarian_belt_n.tga	sRGB=false
+textures/barbarian_body_low_d.tga	textures/barbarian_body_low_d.tga	sRGB=false
+textures/barbarian_body_n.tga	textures/barbarian_body_n.tga	sRGB=false
+textures/floor01_diff.tga	textures/floor01_diff.tga	sRGB=false
+textures/scribs.tga	textures/scribs.tga	sRGB=false
+textures/temple_prop_rubble_02_d.tga	textures/temple_prop_rubble_02_d.tga	sRGB=false
+textures/temple_prop_rubbleplanks_01_d.tga	textures/temple_prop_rubbleplanks_01_d.tga	sRGB=false
+textures/temple_vase_01_d.tga	textures/temple_vase_01_d.tga	sRGB=false
+textures/wall01_diff.tga	textures/wall01_diff.tga	sRGB=false

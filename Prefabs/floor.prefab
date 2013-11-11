@@ -1,0 +1,77 @@
+<root>
+  <info createdby="vForge version 2013.2.0.1" />
+  <header version="0" name="" description="" category="" convertible="True" autosavebinary="False" relativefilenames="False" />
+  <thumbnail type="jpg" size="3579">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAEAAQADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig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</thumbnail>
+  <shape class="StaticMeshShape">
+    <property name="ScaleX" value="1" />
+    <property name="ScaleY" value="1" />
+    <property name="ScaleZ" value="1" />
+    <property name="UniformScaling" value="1" />
+    <property name="NavMeshUsage" value="IncludeInNavMesh" />
+    <property name="MeshFileName" value="Meshes/modular_floor01.vmesh" />
+    <property name="CustomMaterialSet" value="&lt;None&gt;" />
+    <property name="LODUsage" value="FarClipOnly" />
+    <property name="LODDefinitionFile" value="" />
+    <property name="FarClipDistance" value="0" />
+    <property name="VisibleBitmask" value="4294967295" />
+    <property name="LightInfluenceBitmask" value="65535" />
+    <property name="CastStaticShadows" value="True" />
+    <property name="CastDynamicShadows" value="False" />
+    <property name="ShowLightgridWidget" value="False" />
+    <property name="SampleOfsX" value="0" />
+    <property name="SampleOfsY" value="0" />
+    <property name="SampleOfsZ" value="0" />
+    <property name="LightmapSizeMultiplier" value="1" />
+    <property name="CustomLightmap" value="" />
+    <property name="CollisionBitmask" value="65535" />
+    <property name="CollisionBehavior" value="FromFile" />
+    <property name="CollisionLayerID" value="2" />
+    <property name="SubSystemID" value="0" />
+    <property name="SubSystemDontCollideWith" value="0" />
+    <property name="SystemGroup" value="0" />
+    <property name="WeldingType" value="None" />
+    <property name="PreviewVisibility" value="False" />
+    <property name="ObjectKey" value="" />
+    <property name="Visible" value="True" />
+    <property name="Position" value="0,0,0" />
+    <property name="Orientation" value="0,0,0" />
+    <property name="Scaling" value="1,1,1" />
+    <property name="TextLabel" value="" />
+    <property name="ShapeName" value="modular_floor01.vmesh" />
+    <property name="UserDataString" value="" />
+    <property name="ExportShape" value="True" />
+    <property name="UniqueID" value="13641278536865022134" />
+    <linktarget class="LinkTargetVisiblity" name="visibility determined by" ID="VisibilityTarget_1" />
+    <shape class="MirrorShape">
+      <property name="SizeX" value="200" />
+      <property name="SizeY" value="200" />
+      <property name="ModelFile" value="" />
+      <property name="ShaderEffect" value="">
+        <property name="EffectLibrary" value="\Shaders\Mirror.Shaderlib" />
+        <property name="EffectName" value="SimpleMirror" />
+        <property name="ParameterString" value="ReflectionColor=1,1,1,1;" />
+      </property>
+      <property name="Resolution" value="512" />
+      <property name="UseHDR" value="False" />
+      <property name="RenderHook" value="Decals" />
+      <property name="FarClipDistance" value="-1" />
+      <property name="ContextBitmask" value="2" />
+      <property name="RenderExtendedObjects" value="False" />
+      <property name="ReflectionShaderMode" value="AlwaysSimple" />
+      <property name="FovScale" value="1" />
+      <property name="ObliqueClippingPlaneOffset" value="0" />
+      <property name="LODFromRefContext" value="True" />
+      <property name="ObjectKey" value="" />
+      <property name="Visible" value="True" />
+      <property name="Position" value="0,0,0" />
+      <property name="Orientation" value="0,0,0" />
+      <property name="Scaling" value="1,1,1" />
+      <property name="TextLabel" value="" />
+      <property name="ShapeName" value="Mirror" />
+      <property name="UserDataString" value="" />
+      <property name="ExportShape" value="True" />
+      <property name="UniqueID" value="13641278536865022227" />
+      <linktarget class="LinkTargetVisiblity" name="visibility determined by" ID="VisibilityTarget_1" />
+    </shape>
+  </shape>
+</root>

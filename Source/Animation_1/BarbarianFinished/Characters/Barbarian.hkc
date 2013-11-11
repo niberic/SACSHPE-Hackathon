@@ -1,0 +1,111 @@
+<!--HBT-->
+<HBT version="1.0" appversion="2013.1" namespace="_Barbarian_hkc_">
+    <HBT_ITEM type="HavokTools.hkCharacter" name="Barbarian.hkc" priority="1">
+        <hkCharacter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <IncomingRefs>
+                <MangledName>__local__:HavokTools.hkCharacter:Barbarian.hkc:IncomingRefs</MangledName>
+            </IncomingRefs>
+            <ParentNodes />
+            <Notes />
+            <BehaviorFile>
+                <MangledTargetNames>
+                    <string>_Barbarian_hkb_:HavokTools.hkRefFile:Barbarian.hkb:IncomingRefs</string>
+                </MangledTargetNames>
+            </BehaviorFile>
+            <StateMachine>
+                <MangledTargetNames>
+                    <string>_Barbarian_hkb_:HavokTools.hkStateMachine:Barbarian_Root_FSM:IncomingRefs</string>
+                </MangledTargetNames>
+            </StateMachine>
+            <Rig>
+                <MangledTargetNames>
+                    <string>_Barbarian_hkt_:HavokTools.hkCharacterHKX:Barbarian.hkt:IncomingRefs</string>
+                </MangledTargetNames>
+            </Rig>
+            <Ragdoll>
+                <MangledTargetNames />
+            </Ragdoll>
+            <DeformableSkins>
+                <MangledTargetNames>
+                    <string>_Barbarian_hkt_:HavokTools.hkCharacterHKX:Barbarian.hkt:IncomingRefs</string>
+                </MangledTargetNames>
+            </DeformableSkins>
+            <RigidSkins>
+                <MangledTargetNames />
+            </RigidSkins>
+            <SkeletonMappers>
+                <MangledTargetNames />
+            </SkeletonMappers>
+            <UseRigidSkin />
+            <UseDeformableSkin />
+            <UseSkeletonMapper />
+            <Sequence>
+                <MangledTargetNames />
+            </Sequence>
+            <UseSequence>false</UseSequence>
+            <Gamepad>
+                <MangledTargetNames />
+            </Gamepad>
+            <UseGamepad>false</UseGamepad>
+            <InitialX>0</InitialX>
+            <InitialY>0</InitialY>
+            <InitialZ>0</InitialZ>
+            <UniformCharacterScale>0.01</UniformCharacterScale>
+            <InitialRotation>0</InitialRotation>
+            <SavedSettingsNames>
+                <string>Default</string>
+            </SavedSettingsNames>
+            <SavedSettingsValues>
+                <ArrayOfFloat>
+                    <float>0</float>
+                    <float>0</float>
+                    <float>0</float>
+                    <float>0</float>
+                    <float>1</float>
+                </ArrayOfFloat>
+            </SavedSettingsValues>
+            <SavedLODNames />
+            <SavedLODValues />
+            <CurrentLODName>Default (All Bones)</CurrentLODName>
+            <MirrorPartitionPairMap />
+            <MirrorBonePairMap />
+            <MirrorAxis />
+            <MirroredStringList1 />
+            <MirroredStringList2 />
+            <CharacterPropertyOverrides />
+            <LuaScriptOnCharacterActivated />
+            <LuaScriptOnCharacterDeactivated />
+            <LuaFilesChecked>
+                <string>RPG_Player_Main.hks</string>
+            </LuaFilesChecked>
+            <Skins>
+                <FileNameMeshNamePair>
+                    <m_meshName>barbarian_low</m_meshName>
+                    <m_fileName>..\..\..\Animations\Animation_1_Barbarian\CharacterAssets\Barbarian.hkt</m_fileName>
+                </FileNameMeshNamePair>
+            </Skins>
+            <BoneAttachments />
+            <BoneAttachmentBoneIndices />
+            <BoneAttachmentTransforms />
+            <ProxyHeight>1.7</ProxyHeight>
+            <ProxyRadius>0.4</ProxyRadius>
+            <ProxyCollisionFilterInfo>1</ProxyCollisionFilterInfo>
+            <CustomCharacterControllerCinfo>
+                <MangledTargetNames />
+            </CustomCharacterControllerCinfo>
+            <FootIkEnabled>false</FootIkEnabled>
+            <FootIkDriverInfo>
+                <MangledTargetNames />
+            </FootIkDriverInfo>
+            <HandIkEnabled>false</HandIkEnabled>
+            <HandIkDriverInfo>
+                <MangledTargetNames />
+            </HandIkDriverInfo>
+            <AiControlEnabled>false</AiControlEnabled>
+            <AiControlDriverInfo>
+                <MangledTargetNames />
+            </AiControlDriverInfo>
+            <NumLODBones>72</NumLODBones>
+        </hkCharacter>
+    </HBT_ITEM>
+</HBT>
