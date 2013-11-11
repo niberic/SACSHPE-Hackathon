@@ -16,10 +16,10 @@ Description: Simple maze with one teleport spot. Ball rolls, has glow, and has f
 
 Creators:
 
-1. Jose Zepeda —> zepeda30@hotmail.com
-2. Andres Sanchez -> sanchez.andres754@gmail.com
-3. Huy Le —> lhuy2009@gmail.com
-4. Eric Lee -> cireL92@gmail.com
+1. Jose Zepeda - zepeda30@hotmail.com
+2. Andres Sanchez - sanchez.andres754@gmail.com
+3. Huy Le - lhuy2009@gmail.com
+4. Eric Lee - cireL92@gmail.com
 
 Hosts:
 
