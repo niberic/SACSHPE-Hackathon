@@ -5,20 +5,20 @@
   <shape class="LightGridBoxShape">
     <property name="PreviewCells" value="False" />
     <property name="ShowIndicators" value="False" />
-    <property name="BoxSizeX" value="8000" />
-    <property name="BoxSizeY" value="8000" />
-    <property name="BoxSizeZ" value="1000" />
+    <property name="BoxSizeX" value="3071.085" />
+    <property name="BoxSizeY" value="3886.426" />
+    <property name="BoxSizeZ" value="965.8136" />
     <property name="SubDivX" value="32" />
     <property name="SubDivY" value="32" />
     <property name="SubDivZ" value="8" />
     <property name="Visible" value="True" />
-    <property name="Position" value="-1400,2950,144.1943" />
+    <property name="Position" value="-300,-1500,204.2107" />
     <property name="Orientation" value="0,0,0" />
     <property name="Scaling" value="1,1,1" />
     <property name="TextLabel" value="" />
     <property name="ShapeName" value="LightGridBox" />
     <property name="UserDataString" value="" />
     <property name="ExportShape" value="True" />
-    <property name="UniqueID" value="16127477955961029812" />
+    <property name="UniqueID" value="16127477955961029787" />
   </shape>
 </root>

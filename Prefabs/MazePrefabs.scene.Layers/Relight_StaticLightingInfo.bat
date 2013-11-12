@@ -1,0 +1,1 @@
+vLux.exe "" -project "C:\TotalAnarchy\Projects" -tempfolder "C:\TotalAnarchy\Projects\Prefabs\MazePrefabs.scene.Layers" -out "Prefabs\MazePrefabs" -quiet -minimized -config "C:\TotalAnarchy\Projects\Prefabs\MazePrefabs.scene.Layers\lighting.cfg"

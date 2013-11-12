@@ -1,0 +1,1 @@
+vLux.exe "" -project "C:\TotalAnarchy\Projects" -tempfolder "C:\TotalAnarchy\Projects\Scenes\lvl1.scene.Layers" -out "Scenes\lvl1" -quiet -minimized -config "C:\TotalAnarchy\Projects\Scenes\lvl1.scene.Layers\lighting.cfg"
