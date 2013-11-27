@@ -8,6 +8,9 @@ Location: Sacramento State University
 
 Date: 9AM, November 9, 2013 -  12PM, November 10, 2013
 
+Videos: http://www.youtube.com/watch?v=KmvoqI-fw4E
+        http://www.youtube.com/watch?v=MX8OT_X9A2g
+
 =================
 
 Title: Maze Game
